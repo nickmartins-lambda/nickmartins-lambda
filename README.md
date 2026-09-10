@@ -75,6 +75,9 @@ Work I've **authored** or provided the **data science, analysis &amp; visualizat
 **Acoustics &amp; signal processing** — *authored*
 &nbsp;&nbsp;[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22683508.svg)](https://doi.org/10.5281/zenodo.22683508) &nbsp;*Inverting the Room: Differentiable Feedback Delay Networks for Reverb Extraction and Dereverberation*
 
+**Finance &amp; alternative data** — *co-authored · social-network analysis*
+&nbsp;&nbsp;[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22697869.svg)](https://doi.org/10.5281/zenodo.22697869) &nbsp;*Speak Ill, But Speak of Me: The Impact of Tweets on the Stock Price of Vale during the Mariana Dam Disaster* — Twitter alt-data &rarr; equity (PCA + k-means), iron-ore / commodities
+
 **Economics &amp; political economy** — *data science &amp; visualization · Insight Inteligência*
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22684692.svg)](https://doi.org/10.5281/zenodo.22684692) &nbsp;*O multilateralismo em xeque — Índice de Prestígio dos Organismos Multilaterais* (nº 110)
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22684710.svg)](https://doi.org/10.5281/zenodo.22684710) &nbsp;*A "Vida Nua" e a Banalidade da Opressão na "Era da Exceção"* (nº 112)
