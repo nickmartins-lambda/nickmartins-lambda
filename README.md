@@ -68,6 +68,26 @@ habit of mind: model the system honestly, then make it fast, cheap, and real.
 - **Polymath by design.** Audio · DSP · acoustics · quantitative markets · AI · data
   engineering · games — the range is the point.
 
+### 📚 Research &amp; publications
+
+Work I've **authored** or provided the **data science, analysis &amp; visualization** for — each with a permanent, citable **DOI** (auto-imported by Zotero / Mendeley, indexed across the scholarly graph).
+
+**Acoustics &amp; signal processing** — *authored*
+&nbsp;&nbsp;[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22683508.svg)](https://doi.org/10.5281/zenodo.22683508) &nbsp;*Inverting the Room: Differentiable Feedback Delay Networks for Reverb Extraction and Dereverberation*
+
+**Economics &amp; political economy** — *data science &amp; visualization · Insight Inteligência*
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22684692.svg)](https://doi.org/10.5281/zenodo.22684692) &nbsp;*O multilateralismo em xeque — Índice de Prestígio dos Organismos Multilaterais* (nº 110)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22684710.svg)](https://doi.org/10.5281/zenodo.22684710) &nbsp;*A "Vida Nua" e a Banalidade da Opressão na "Era da Exceção"* (nº 112)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22684724.svg)](https://doi.org/10.5281/zenodo.22684724) &nbsp;*Leis, Loucos e Labirintos: o Manicômio Regulatório* (nº 114)
+
+**ESG &amp; sustainability** — *data · Anuário Integridade ESG*
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22691162.svg)](https://doi.org/10.5281/zenodo.22691162) 2024 &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22691344.svg)](https://doi.org/10.5281/zenodo.22691344) 2025 &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22691567.svg)](https://doi.org/10.5281/zenodo.22691567) 2026
+
+**Markets &amp; trade intelligence** — *data science · Relatório Reservado / RR Magma*
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22692147.svg)](https://doi.org/10.5281/zenodo.22692147) &nbsp;*China trava preços da celulose e pressiona resultados de Suzano e Klabin*
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22692095.svg)](https://doi.org/10.5281/zenodo.22692095) &nbsp;*Governo prepara ofensiva para aumentar nacionalização de veículos chineses*
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22692058.svg)](https://doi.org/10.5281/zenodo.22692058) &nbsp;*Relatório Reservado cria plataforma de inteligência e lança o RR Magma*
+
 <details>
 <summary><strong>Stack &amp; tooling</strong></summary>
 
