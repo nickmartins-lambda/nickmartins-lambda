@@ -1,4 +1,4 @@
-<h1 align="center">Nicholas&nbsp;Martins</h1>
+<h1 align="center">Nick&nbsp;Martins</h1>
 
 <p align="center">
   <strong>Engineer across AI, quantitative finance, and data infrastructure —<br>
@@ -59,26 +59,6 @@ early machine learning, then — chasing *continuous, defensible data* — into
 **quantitative finance**, and now into **games and audio R&D**. Different domains, one
 habit of mind: model the system honestly, then make it fast, cheap, and real.
 
-### Research &amp; publications
-
-A portfolio of **13 open-access DOIs** (Zenodo) — as author and as the data scientist
-behind commissioned work — a citable, reproducible publication trail. Selected:
-
-- Martins, N. (2026). *Regime-Conditioned Commodity Exposure: A Chain-of-Events Method for Anticipating Climatic and Biological Shocks to Brazilian Exports.* Zenodo. https://doi.org/10.5281/zenodo.22714483
-- Martins, N. (2026). *Speak Ill, But Speak of Me: The Impact of Tweets on the Stock Price of Vale during the Mariana Dam Disaster* (co-authored) — Twitter sentiment → Vale (iron-ore) ADR via PCA + k-means; the alt-data paper that led to an interview with Argus Media. Zenodo. https://doi.org/10.5281/zenodo.22697869
-- Martins, N. (2026). *Real-time dereverberation via a differentiable feedback delay network* — speech intelligibility STOI 0.41 → 0.91, running 891–3096× faster than real-time; open-source PyTorch. Zenodo. https://doi.org/10.5281/zenodo.22683508
-
-Plus commissioned data-science contributions (analysis, data &amp; visualization) published
-open-access: *Insight Inteligência* ([`22684692`](https://doi.org/10.5281/zenodo.22684692),
-[`22684710`](https://doi.org/10.5281/zenodo.22684710),
-[`22684724`](https://doi.org/10.5281/zenodo.22684724)),
-*Anuário Integridade ESG* 2024–2026 ([`22691162`](https://doi.org/10.5281/zenodo.22691162),
-[`22691344`](https://doi.org/10.5281/zenodo.22691344),
-[`22691567`](https://doi.org/10.5281/zenodo.22691567)),
-and *Relatório Reservado* ([`22692058`](https://doi.org/10.5281/zenodo.22692058),
-[`22692095`](https://doi.org/10.5281/zenodo.22692095),
-[`22692147`](https://doi.org/10.5281/zenodo.22692147)).
-
 ### How I work
 - **Own the metal.** A private RTX-3090 GPU mesh on a Tailscale network — fine-tuning,
   VRAM-safe serving, cross-site redundancy. Private models, cost-optimized, no cloud lock-in.
@@ -87,6 +67,30 @@ and *Relatório Reservado* ([`22692058`](https://doi.org/10.5281/zenodo.22692058
   hide the gold.
 - **Polymath by design.** Audio · DSP · acoustics · quantitative markets · AI · data
   engineering · games — the range is the point.
+
+### 📚 Research &amp; publications
+
+Work I've **authored** or provided the **data science, analysis &amp; visualization** for — each with a permanent, citable **DOI** (auto-imported by Zotero / Mendeley, indexed across the scholarly graph).
+
+**Acoustics &amp; signal processing** — *authored*
+&nbsp;&nbsp;[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22683508.svg)](https://doi.org/10.5281/zenodo.22683508) &nbsp;*Inverting the Room: Differentiable Feedback Delay Networks for Reverb Extraction and Dereverberation*
+
+**Finance &amp; alternative data** — *co-authored · social-network analysis*
+&nbsp;&nbsp;[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22697869.svg)](https://doi.org/10.5281/zenodo.22697869) &nbsp;*Speak Ill, But Speak of Me: The Impact of Tweets on the Stock Price of Vale during the Mariana Dam Disaster* — Twitter alt-data &rarr; equity (PCA + k-means), iron-ore / commodities
+
+**Economics &amp; political economy** — *data science &amp; visualization · Insight Inteligência*
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22684692.svg)](https://doi.org/10.5281/zenodo.22684692) &nbsp;*O multilateralismo em xeque — Índice de Prestígio dos Organismos Multilaterais* (nº 110)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22684710.svg)](https://doi.org/10.5281/zenodo.22684710) &nbsp;*A "Vida Nua" e a Banalidade da Opressão na "Era da Exceção"* (nº 112)
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22684724.svg)](https://doi.org/10.5281/zenodo.22684724) &nbsp;*Leis, Loucos e Labirintos: o Manicômio Regulatório* (nº 114)
+
+**ESG &amp; sustainability** — *data · Anuário Integridade ESG*
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22691162.svg)](https://doi.org/10.5281/zenodo.22691162) 2024 &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22691344.svg)](https://doi.org/10.5281/zenodo.22691344) 2025 &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22691567.svg)](https://doi.org/10.5281/zenodo.22691567) 2026
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22699584.svg)](https://doi.org/10.5281/zenodo.22699584) &nbsp;*Edição Especial COP30 — Ranking dos Temas Prioritários (Pesquisa Integridade ESG &amp; InsightLab)*
+
+**Markets &amp; trade intelligence** — *data science · Relatório Reservado / RR Magma*
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22692147.svg)](https://doi.org/10.5281/zenodo.22692147) &nbsp;*China trava preços da celulose e pressiona resultados de Suzano e Klabin*
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22692095.svg)](https://doi.org/10.5281/zenodo.22692095) &nbsp;*Governo prepara ofensiva para aumentar nacionalização de veículos chineses*
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22692058.svg)](https://doi.org/10.5281/zenodo.22692058) &nbsp;*Relatório Reservado cria plataforma de inteligência e lança o RR Magma*
 
 <details>
 <summary><strong>Stack &amp; tooling</strong></summary>
