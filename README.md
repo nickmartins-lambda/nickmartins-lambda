@@ -85,6 +85,7 @@ Work I've **authored** or provided the **data science, analysis &amp; visualizat
 
 **ESG &amp; sustainability** — *data · Anuário Integridade ESG*
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22691162.svg)](https://doi.org/10.5281/zenodo.22691162) 2024 &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22691344.svg)](https://doi.org/10.5281/zenodo.22691344) 2025 &nbsp; [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22691567.svg)](https://doi.org/10.5281/zenodo.22691567) 2026
+- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22699584.svg)](https://doi.org/10.5281/zenodo.22699584) &nbsp;*Edição Especial COP30 — Ranking dos Temas Prioritários (Pesquisa Integridade ESG &amp; InsightLab)*
 
 **Markets &amp; trade intelligence** — *data science · Relatório Reservado / RR Magma*
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22692147.svg)](https://doi.org/10.5281/zenodo.22692147) &nbsp;*China trava preços da celulose e pressiona resultados de Suzano e Klabin*
