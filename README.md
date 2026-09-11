@@ -77,6 +77,7 @@ Work I've **authored** or provided the **data science, analysis &amp; visualizat
 
 **Finance &amp; alternative data** — *co-authored · social-network analysis*
 &nbsp;&nbsp;[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22697869.svg)](https://doi.org/10.5281/zenodo.22697869) &nbsp;*Speak Ill, But Speak of Me: The Impact of Tweets on the Stock Price of Vale during the Mariana Dam Disaster* — Twitter alt-data &rarr; equity (PCA + k-means), iron-ore / commodities
+&nbsp;&nbsp;[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22714483.svg)](https://doi.org/10.5281/zenodo.22714483) &nbsp;*Regime-Conditioned Commodity Exposure: A Chain-of-Events Method for Anticipating Climatic and Biological Shocks to Brazilian Exports* — climate &amp; biological shock &rarr; Brazilian commodity exposure (Genoma &times; event)
 
 **Economics &amp; political economy** — *data science &amp; visualization · Insight Inteligência*
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22684692.svg)](https://doi.org/10.5281/zenodo.22684692) &nbsp;*O multilateralismo em xeque — Índice de Prestígio dos Organismos Multilaterais* (nº 110)
